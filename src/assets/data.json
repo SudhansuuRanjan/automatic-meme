@@ -1,0 +1,72 @@
+[
+    {
+        "name": "project_alpha",
+        "language": "JavaScript",
+        "size": "120 KB",
+        "updated": "3 days ago",
+        "isPrivate": false
+    },
+    {
+        "name": "data_analysis",
+        "language": "Python",
+        "size": "340 KB",
+        "updated": "3 days ago",
+        "isPrivate": true
+    },
+    {
+        "name": "website_template",
+        "language": "HTML",
+        "size": "200 KB",
+        "updated": "3 days ago",
+        "isPrivate": false
+    },
+    {
+        "name": "inventory_manager",
+        "language": "C#",
+        "size": "450 KB",
+        "updated": "3 days ago",
+        "isPrivate": true
+    },
+    {
+        "name": "machine_learning",
+        "language": "Python",
+        "size": "600 KB",
+        "updated": "3 days ago",
+        "isPrivate": false
+    },
+    {
+        "name": "portfolio_site",
+        "language": "React",
+        "size": "300 KB",
+        "updated": "3 days ago",
+        "isPrivate": false
+    },
+    {
+        "name": "ecommerce_platform",
+        "language": "Ruby",
+        "size": "700 KB",
+        "updated": "3 days ago",
+        "isPrivate": true
+    },
+    {
+        "name": "chatbot",
+        "language": "Python",
+        "size": "500 KB",
+        "updated": "3 days ago",
+        "isPrivate": true
+    },
+    {
+        "name": "game_dev",
+        "language": "C++",
+        "size": "1,200 KB",
+        "updated": "3 days ago",
+        "isPrivate": false
+    },
+    {
+        "name": "api_integration",
+        "language": "Node.js",
+        "size": "350 KB",
+        "updated": "3 days ago",
+        "isPrivate": true
+    }
+]
